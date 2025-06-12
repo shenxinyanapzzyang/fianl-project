@@ -4,7 +4,7 @@
 - 姓名 (Name): Shen Xinyan  
 - 学号 (Student ID): 20232090  
 - 照片 (Photo):  
-  ![Shen Xinyan](media/shenxinyan.jpg)  
+  ![Shen Xinyan](personal-website/media/shenxinyan.jpg)  
 
 - 应用程序链接 (Application URLs):  
   个人网站 (Personal Website): http://8.156.72.7  
