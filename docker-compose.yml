@@ -1,0 +1,14 @@
+version: '3.8'
+services:
+  personal-site:
+    build: ./personal-website
+    ports:
+      - "80:80"
+    restart: always
+
+  todo-app:
+    depends_on:
+      - personal-site
+    extends:
+      file: ./todo-app/docker-compose.yml
+      service: todo-app
